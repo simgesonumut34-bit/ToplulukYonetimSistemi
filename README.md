@@ -90,6 +90,7 @@ Bu sistem, üniversite topluluklarının yönetim süreçlerini dijitalleştirer
  Geliştirici
 
 Ecem Yünkül
+Simge Sonumut
 
 Bilgisayar Programcılığı
 Bursa Uludağ Üniversitesi 
